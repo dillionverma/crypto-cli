@@ -8,7 +8,14 @@ Crypto CLI is a __lightweight__ command line interface __written in one line__ t
 
 ![screenshot](https://github.com/dillionverma/crypto-cli/blob/master/screenshot.png)
 
+All data is sourced from [coinmarketcap api](https://coinmarketcap.com/api/)
+
 ## Installation
+
+First install jq which is a command line json parser [__here__](https://stedolan.github.io/jq/download/)
+
+After you have installed jq, run the following commmand in your terminal:
+
 ```
 curl "https://raw.githubusercontent.com/dillionverma/crypto-cli/master/coin" -o /usr/local/bin/coin && chmod +x /usr/local/bin/coin
 ```
