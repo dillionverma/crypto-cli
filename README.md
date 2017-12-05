@@ -2,7 +2,7 @@
 
 Crypto CLI is a __lightweight__ command line interface __written in one line__ to fetch the latest cryptocurrency prices and display them in the terminal.
 
-
+![screenshot](https://github.com/dillionverma/crypto-cli/blob/master/screenshot.png)
 
 ## Usage
 
