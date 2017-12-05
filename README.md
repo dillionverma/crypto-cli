@@ -42,3 +42,4 @@ vim coin
 
 ## License
 
+MIT License
